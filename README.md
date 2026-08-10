@@ -1,164 +1,167 @@
 <div align="center">
 
-# 👋 Hi, I'm Dr. Jyothi Jetti
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:0A66C2&height=230&section=header&text=DR.%20JYOTHI%20JETTI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Pharm.D%20%E2%86%92%20HEOR%20%C2%B7%20Real-World%20Evidence%20%C2%B7%20Healthcare%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Pharm.D → Clinical Research → HEOR | RWE | Healthcare Analytics
+<br/>
 
-<p>
-<a href="https://github.com/jyothi-jetti">
-<img src="https://img.shields.io/badge/GitHub-jyothi--jetti-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://jyothi-jetti.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1200&color=0A66C2&center=true&vCenter=true&width=750&lines=Cost-Effectiveness+%7C+Budget+Impact+%7C+Survival+Analysis;Evidence+Generation+for+Global+Pharma+%26+CROs;From+Bedside+to+Evidence+%E2%80%94+4%2B+Years+Clinical%2C+Now+HEOR-Bound" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=jyothi-jetti&label=Profile%20Views&style=flat">
+<br/><br/>
 
-</div>
+<a href="https://jyothi-jetti.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-View%20Live%20Site-0A2647?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dr-jyothi-jetti-pharm-d"><img src="https://img.shields.io/badge/LINKEDIN-Connect-144272?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jettijyothi7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Reach%20Out-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+<br/><br/>
 
-## 🧬 About Me
-
-I'm a **Pharm.D graduate** building a career at the intersection of **clinical research, health economics, real-world evidence and healthcare analytics**.
-
-- 💊 Pharm.D background with clinical experience
-- 🔬 Interested in clinical research and evidence generation
-- 📊 Building practical HEOR and healthcare analytics projects
-- 🌍 Interested in Real-World Evidence and outcomes research
-- 💻 Developing skills in Python, SQL, SAS, Excel and Power BI
-- 🚀 Open to opportunities in HEOR, RWE, clinical research and healthcare analytics
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,r,git,github,vscode">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HEOR-Health%20Economics%20%26%20Outcomes%20Research-2E7D32?style=flat-square">
-
-<img src="https://img.shields.io/badge/RWE-Real--World%20Evidence-1565C0?style=flat-square">
-
-<img src="https://img.shields.io/badge/Clinical%20Research-Evidence%20Generation-6A1B9A?style=flat-square">
-
-<img src="https://img.shields.io/badge/Healthcare%20Analytics-Data%20Driven-F57C00?style=flat-square">
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jyothi-jetti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothi-jetti&layout=compact&langs_count=8&hide_border=true">
+<img src="https://komarev.com/ghpvc/?username=jyothi-jetti&label=Profile%20Views&color=0A66C2&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20HEOR%20%2F%20RWE%20%2F%20Clinical%20Research%20roles-2E7D32?style=flat-square" />
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:0A66C2&height=3&width=100%25"/>
 
-<div align="center">
+## &nbsp;🎬&nbsp; The Story
 
-<img src="https://streak-stats.demolab.com?user=jyothi-jetti&hide_border=true">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-</div>
+Four years at the bedside — **Surgical ICU, Nephrology, Emergency Medicine, Gynaecology & Obstetrics** — taught me to make evidence-based decisions under pressure, document with discipline, and never guess when a patient's safety is on the line.
 
----
+Now I'm channeling that same rigor into **Health Economics & Outcomes Research, Real-World Evidence, and Healthcare Analytics** — because the next place I want to save lives at scale is in the models, dashboards, and evidence packages that shape how medicine gets paid for and delivered.
 
-## 📈 Contribution Activity
+This profile is my **proof-of-work layer**: reproducible HEOR, RWE, and analytics projects, built on synthetic healthcare data, documented the way a CRO or pharma HEOR team would expect.
 
-<div align="center">
+</td>
+<td width="40%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyothi-jetti&hide_border=true&area=true">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyothi-jetti/jyothi-jetti/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyothi-jetti/jyothi-jetti/output/github-contribution-grid-snake.svg">
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jyothi-jetti/jyothi-jetti/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyothi-jetti&theme=flat&no-frame=true&margin-w=8&row=1">
-
-</div>
-
----
-
-## 🧪 What I'm Building
-
-| Area | Projects |
+**Quick Facts**
+| | |
 |---|---|
-| 💰 HEOR | Cost-effectiveness analysis, QALYs & Budget Impact Analysis |
-| 🌍 RWE | Real-world datasets, cohort analysis & outcomes research |
-| 📊 Analytics | Healthcare dashboards & data visualization |
-| 🔬 Clinical Research | Study design & evidence-generation projects |
-| 💊 Pharmacotherapy | Evidence-based medication-use projects |
+| 🩺 | 4+ yrs Clinical Practice |
+| 🎓 | PG Diploma, Clinical Research |
+| ✍️ | 2 Peer-Reviewed Publications |
+| 📰 | 7,700+ Newsletter Subscribers |
+| 🌍 | Open to Remote / Relocation |
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A2647&height=3&width=100%25"/>
 
-### 📊 HEOR Cost-Effectiveness Analysis
-
-A practical health-economic analysis comparing healthcare interventions using costs, outcomes and ICER.
-
-### 🌍 Real-World Evidence Analysis
-
-Analysis of healthcare data focusing on patient characteristics, treatment patterns and outcomes.
-
-### 📈 Healthcare Analytics Dashboard
-
-A data-driven dashboard translating healthcare data into decision-useful insights.
-
----
-
-## 📚 Research Interests
-
-**Health Economics • Outcomes Research • Real-World Evidence • Clinical Research • Pharmacoeconomics • Healthcare Analytics • Evidence-Based Medicine**
-
----
-
-## 🤝 Let's Connect
-
-Interested in collaborating on:
-
-**HEOR | RWE | Clinical Research | Healthcare Analytics | Evidence Generation**
+## &nbsp;🧭&nbsp; Focus Areas
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">LinkedIn</a> •
-<a href="https://github.com/jyothi-jetti">GitHub</a> •
-<a href="https://jyothi-jetti.github.io/portfolio/">Portfolio</a>
+<img src="https://img.shields.io/badge/HEOR-0A2647?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real--World%20Evidence-144272?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cost--Effectiveness%20Analysis-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Budget%20Impact%20Analysis-0A2647?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/Clinical%20Trial%20Analytics-144272?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pharmacovigilance-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Survival%20Analysis-0A2647?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Medical%20Writing-144272?style=for-the-badge" />
 
-<br><br>
+</div>
 
-<i>Turning clinical knowledge into data-driven healthcare insights.</i>
+## &nbsp;🛠️&nbsp; Toolkit
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SAS-1F5F8B?style=for-the-badge&logo=sas&logoColor=white" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-0A2647?style=for-the-badge&logo=github&logoColor=white" />
+
+*(Python appears inline on individual projects — CEA modeling, survival analysis, signal detection — where it's the right tool for the job.)*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:0A66C2&height=3&width=100%25"/>
+
+## &nbsp;🏆&nbsp; Featured Work
+
+<table>
+<tr><th>Project</th><th>What It Proves</th><th>Built With</th></tr>
+<tr><td><b>Cost-Effectiveness Analysis Toolkit</b></td><td>ICER modeling, cost-utility framing for a market-access dossier</td><td>Python</td></tr>
+<tr><td><b>Budget Impact Model — IV-to-Oral Antibiotic Switch</b></td><td>Real hospital-cost scenario from my own newsletter, modeled end-to-end</td><td>Excel + Python</td></tr>
+<tr><td><b>RWE Claims Data Analysis</b></td><td>Treatment-pattern & outcomes analysis on synthetic claims data</td><td>SQL, Python</td></tr>
+<tr><td><b>Survival Analysis in Oncology RWE</b></td><td>Kaplan-Meier & Cox proportional hazards on synthetic patient-level data</td><td>Python</td></tr>
+<tr><td><b>Pharmacovigilance Signal Detection</b></td><td>Disproportionality analysis (PRR/ROR) on synthetic ADR data</td><td>SQL, Python</td></tr>
+<tr><td><b>Clinical Trial Analytics Dashboard</b></td><td>Enrollment, AE burden, and site-performance monitoring</td><td>Power BI</td></tr>
+<tr><td><b>Healthcare KPI Dashboard</b></td><td>LOS, readmission, and cost-of-care KPIs</td><td>Power BI</td></tr>
+<tr><td><b>SQL for Healthcare</b></td><td>Query library against a synthetic EHR/claims schema</td><td>SQL</td></tr>
+<tr><td><b>Medical Writing Samples</b></td><td>SLR/PRISMA writeup + CSR-style excerpt</td><td>Markdown</td></tr>
+<tr><td><a href="https://github.com/jyothi-jetti/portfolio"><b>Portfolio Website</b></a></td><td>Source for the live portfolio site</td><td>HTML/CSS/JS</td></tr>
+</table>
+
+<sub>Repo links activate as each is published — see rollout plan pinned below.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A2647&height=3&width=100%25"/>
+
+## &nbsp;📊&nbsp; GitHub Activity
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jyothi-jetti&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothi-jetti&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=333333" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothi-jetti&hide_border=true&stroke=0A66C2&ring=0A66C2&fire=F2C811&background=00000000" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jyothi-jetti&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<!--
+  Contribution snake — add this as a GitHub Action (.github/workflows/snake.yml) using
+  Platane/snk to generate the asset, then embed it below:
+  <img src="https://raw.githubusercontent.com/jyothi-jetti/jyothi-jetti/output/github-contribution-grid-snake.svg" />
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2647,100:0A66C2&height=3&width=100%25"/>
+
+<details>
+<summary><b>&nbsp;🎓&nbsp; Certifications</b></summary>
+<br/>
+
+- Good Clinical Practice (GCP) — NIDA Clinical Trial Network
+- Clinical SAS — Base & Advanced — Clinlogics
+- Data Analyst Job Simulation — Deloitte (Dashboards & Healthcare Analytics)
+- PG Diploma — Clinical Research, PV, CDM, Medical Writing & RA — Clinovate Clinical Research Institute
+- BLS · ACLS · PALS Provider — IEM Education
+
+</details>
+
+<details>
+<summary><b>&nbsp;✍️&nbsp; Publications & Peer Review</b></summary>
+<br/>
+
+- *Evaluation of Awareness in Immunization and its Benefits in Child Bearing Mothers* — IJNRD
+- *Multiple Fixed Drug Eruptions* — IJRMS, DOI 10.18203/2320-6012.ijrms20243737
+- Peer Reviewer, Life Sciences — IJIRT (UGC Approved, ISSN 2349-6002, Impact Factor 8.01)
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0A2647&height=3&width=100%25"/>
+
+<div align="center">
+
+## &nbsp;📬&nbsp; Let's Talk
+
+**Open to HEOR · Real-World Evidence · Clinical Research · Healthcare Analytics roles — Remote, Hybrid, or Relocation**
+
+<a href="mailto:jettijyothi7@gmail.com"><img src="https://img.shields.io/badge/jettijyothi7%40gmail.com-0A2647?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dr-jyothi-jetti-pharm-d"><img src="https://img.shields.io/badge/dr--jyothi--jetti--pharm--d-144272?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Advancing patient care through clinical excellence, research, innovation, and evidence-based healthcare."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:144272,100:0A2647&height=100&section=footer" width="100%"/>
 
 </div>
